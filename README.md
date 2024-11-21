@@ -1,4 +1,4 @@
-# EXP1: 4 Bit Adder functionality verification
+![WhatsApp Image 2024-11-21 at 6 43 28 PM (1)](https://github.com/user-attachments/assets/e03bc333-9857-4ba7-bd5e-04c2f7a16d5f)# EXP1: 4 Bit Adder functionality verification
 
 ## Aim:
 To write a verilog code for 4bit adder and verify the functionality using Test bench.
@@ -174,6 +174,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Uploading WhatsApp Image 2024-11-21 at 6.43.28 PM (1).jpeg…]()
+
 
 
 
