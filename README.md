@@ -174,10 +174,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
-![Uploading WhatsApp Image 2024-11-21 at 6.43.28 PM (1).jpeg…]()
-
-
-
+WhatsApp Image 2024-11-21 at 6.43.28 PM (1)
 
 ### Fig 12: Simulation Waveform Window
 ![WhatsApp Image 2024-11-21 at 6 43 29 PM (3)](https://github.com/user-attachments/assets/626e5ba0-9657-41db-88cd-d5a66ae0f499)
