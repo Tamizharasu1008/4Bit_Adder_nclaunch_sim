@@ -24,8 +24,6 @@ Here’s the truth table for a 1-bit full adder:
 ### Fig 1 : Diagram and truth table of full adder
 
 ### Logic Expressions:
-![WhatsApp Image 2024-11-21 at 6 43 28 PM](https://github.com/user-attachments/assets/31d2180d-6130-45f7-a64e-7460e15183b0)
-
 
 1.	Sum (S):
    
@@ -42,7 +40,6 @@ COUT=(A&B) | (CIN&(A^B))
 ### Fig 2:Diagram of 4 Bit Adder
 
 ## Creating Source Codes 
-![WhatsApp Image 2024-11-21 at 6 43 29 PM](https://github.com/user-attachments/assets/7c3f5402-8d98-430a-9dc1-ad232a110181)
 
 
 	In the Terminal, type gedit <filename>.v (ex: gedit 4bitadder.v). 
@@ -177,7 +174,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
-![Uploading WhatsApp Image 2024-11-21 at 6.43.29 PM (1).jpeg…]()
+
 
 
 ### Fig 12: Simulation Waveform Window
